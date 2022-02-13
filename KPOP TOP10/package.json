@@ -1,0 +1,47 @@
+{
+  "title": "KPOP TOP10",
+  "madeby": "YF Official",
+  "about": "KPOP 전문 채널들로 신곡을 놓치치 말자!"
+  "content": {
+    "BLACKPINK": {
+      "url": "",
+      "color": []
+    },
+    "HYBE LABELS": {
+      "url": "",
+      "color": []
+    },
+    "BANGTANTV": {
+      "url": "",
+      "color"; []
+    },
+    "SMTOWN": {
+      "url": "",
+      "color": []
+    },
+    "JYP ENTER": {
+      "url": "",
+      "color": []
+    },
+    "BIGBANG": {
+      "url": "",
+      "color": []
+    },
+    "TWICE": {
+      "url": "",
+      "color": []
+    },
+    "STONE MUSIC": {
+      "url": "",
+      "color": []
+    },
+    "EXO": {
+      "url": "",
+      "color": []
+    },
+    "IKON": {
+      "url": "",
+      "color": []
+    }
+  }
+}
