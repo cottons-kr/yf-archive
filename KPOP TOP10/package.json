@@ -5,43 +5,43 @@
   "content": {
     "BLACKPINK": {
       "url": "https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A",
-      "color": []
+      "color": [27, 30, 31]
     },
     "HYBE LABELS": {
       "url": "https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA",
-      "color": []
+      "color": [245, 255, 0]
     },
     "BANGTANTV": {
       "url": "https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ",
-      "color": []
+      "color": [255, 221, 2]
     },
     "SMTOWN": {
       "url": "https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g",
-      "color": []
+      "color": [252, 225, 230]
     },
     "JYP ENTER": {
       "url": "https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg",
-      "color": []
+      "color": [255, 254, 254]
     },
     "BIGBANG": {
       "url": "https://www.youtube.com/channel/UCzw-C7fNfs018R1FzIKnlaA",
-      "color": []
+      "color": [255, 255, 255]
     },
     "TWICE": {
       "url": "https://www.youtube.com/channel/UCzgxx_DM2Dcb9Y1spb9mUJA",
-      "color": []
+      "color": [201, 215, 228]
     },
     "STONE MUSIC": {
       "url": "https://www.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A",
-      "color": []
+      "color": [255, 251, 242]
     },
     "EXO": {
       "url": "https://www.youtube.com/channel/UCzCedBCSSltI1TFd3bKyN6g",
-      "color": []
+      "color": [236, 196, 177]
     },
     "IKON": {
       "url": "https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw",
-      "color": []
+      "color": [255, 255, 255]
     }
   }
 }
