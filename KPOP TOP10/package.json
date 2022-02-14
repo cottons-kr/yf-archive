@@ -5,7 +5,8 @@
   "content": {
     "BLACKPINK": {
       "url": "https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A",
-      "color": [27, 30, 31]
+      "color": [27, 30, 31],
+      "text": [255, 255, 255]
     },
     "HYBE LABELS": {
       "url": "https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA",
