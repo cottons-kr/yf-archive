@@ -1,0 +1,12 @@
+{
+  "title": "test",
+  "about": "test",
+  "madeby": "tester",
+  "content": {
+    "진용진": {
+      "url": "https://www.youtube.com/c/%EC%A7%84%EC%9A%A9%EC%A7%84",
+      "color": [227, 227, 219],
+      "text": [0, 0, 0]
+    }
+  }
+}
